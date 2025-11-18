@@ -22,6 +22,32 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
+- [ ] Complete handoff to Support Engineers using [Role Handoff Checklist](octoacme-role-handoff-checklist.md)
+- [ ] Ensure DevOps monitoring and alerts are configured
+
+## Role-Specific Responsibilities
+
+**DevOps Engineer:**
+- Execute deployment pipeline
+- Monitor system health during deployment
+- Maintain rollback capability
+- Configure post-deployment monitoring
+
+**QA Engineer:**
+- Execute smoke tests in staging and production
+- Verify critical user flows
+- Document any issues found
+
+**Support Engineer:**
+- Review release notes and feature documentation
+- Prepare knowledge base articles
+- Monitor support channels post-release
+- Escalate issues to appropriate teams
+
+**Product Manager / Project Manager:**
+- Approve go/no-go decision
+- Coordinate stakeholder communication
+- Track success metrics post-release
 
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:
@@ -36,3 +62,7 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+## Related Resources
+- [Role Handoff Checklist](octoacme-role-handoff-checklist.md)
+- [Cross-Role Interaction Scenarios](octoacme-cross-role-interaction-scenarios.md) - See "Scenario 6: Release Planning and Coordination"

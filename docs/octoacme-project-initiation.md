@@ -28,6 +28,14 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  - Project Manager:
+  - Product Manager:
+  - Developers:
+  - QA Engineers:
+  - DevOps Engineer (if infrastructure/deployment needs):
+  - UX Designer (if UI/UX work required):
+  - Business Analyst (if complex requirements or process flows):
+  - Support Engineer liaison (for customer impact assessment):
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
