@@ -14,11 +14,15 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
-- Project Manager (PM): coordinates delivery, schedules, risk, communications.
-- Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
-- Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- **Project Manager (PM):** coordinates delivery, schedules, risk, communications.
+- **Product Manager (PdM):** defines outcomes, prioritizes backlog, and measures success.
+- **Developers:** implement features, collaborate on design and testability.
+- **QA Engineers:** validate quality and acceptance criteria through testing.
+- **DevOps Engineers:** maintain CI/CD pipelines, infrastructure, and deployment processes.
+- **UX Designers:** ensure usability and user experience standards.
+- **Business Analysts:** elicit requirements and validate solutions meet business needs.
+- **Support Engineers:** handle post-release issues and provide product feedback.
+- **Stakeholders:** provide inputs and approvals.
 
 ## Key Artifacts
 - Project Charter / One-pager

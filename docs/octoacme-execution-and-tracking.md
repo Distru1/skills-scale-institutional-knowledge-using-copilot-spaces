@@ -38,3 +38,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Cross-role handoffs tracked using [Role Handoff Checklist](octoacme-role-handoff-checklist.md)
+- [ ] Communication channels established for all roles
+
+## Related Resources
+- [Role Handoff Checklist](octoacme-role-handoff-checklist.md)
+- [Cross-Role Interaction Scenarios](octoacme-cross-role-interaction-scenarios.md)

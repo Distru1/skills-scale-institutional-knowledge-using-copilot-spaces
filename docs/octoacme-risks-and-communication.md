@@ -40,3 +40,13 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+
+**Role-Specific Escalation:**
+- **Technical Blockers:** Developer → DevOps Engineer or Tech Lead → PM
+- **Requirements Issues:** Developer/QA → Business Analyst or Product Manager
+- **Production Incidents:** DevOps/Support → On-call Developer → PM/Product Manager
+- **Customer Impact:** Support Engineer → Product Manager → Stakeholders
+
+## Related Resources
+- [Cross-Role Interaction Scenarios](octoacme-cross-role-interaction-scenarios.md) - See "Scenario 2: Production Incident Response"
+- [Role Handoff Checklist](octoacme-role-handoff-checklist.md)
